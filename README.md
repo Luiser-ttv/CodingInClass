@@ -5,6 +5,8 @@ This is a couple of python scripts what I made while Im bored on classes :)
 
 
 #1 - Snake Game
+  
+ 
 Its a Snake Game made in python. One is made to play it on the shell and the another is made with tkinter.
 
 This is the basic one on the shell.
